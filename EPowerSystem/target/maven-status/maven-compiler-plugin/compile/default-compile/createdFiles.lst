@@ -1,0 +1,7 @@
+com/elecgrid/crud/customerManagement/model/customerModel.class
+com/elecgrid/crud/customerManagement/App.class
+com/elecgrid/crud/employeeManagement/model/employeeModel.class
+com/elecgrid/crud/customerManagement/resource/customerResource.class
+com/elecgrid/crud/customerManagement/services/customerServices.class
+com/elecgrid/crud/employeeManagement/resource/employeeResource.class
+com/elecgrid/crud/employeeManagement/services/employeeServices.class
